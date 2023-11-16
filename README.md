@@ -1,8 +1,8 @@
-# Android Project 3 - *Flixser Movie App*
+# *Flixser Movie App*
 
-Submitted by: **Osaze Imohe**
+**Osaze Imohe**
 
-**Name of your app** is a movie browsing app that allows users to browse movies currently playing in theaters.
+**Flixster** is a movie browsing app that allows users to browse movies currently playing in theaters.
 
 Time spent: *7** hours spent in total
 
